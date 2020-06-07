@@ -1,6 +1,6 @@
 # Basic Essentials
 
-[![Build status](https://ci.appveyor.com/api/projects/status/qlabb1fkbck7sujb?svg=true)](https://ci.appveyor.com/project/madskristensen/browserlinkinspector2019)
+[![Build status](https://ci.appveyor.com/api/projects/status/5lt8lmrrkipb7r18?svg=true)](https://ci.appveyor.com/project/madskristensen/basicessentials)
 
 Download this extension from the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BasicEssentials)
 or get the [CI build](https://www.vsixgallery.com/extension/046d9eae-a595-4033-9a0d-209e3f01b90d/).
