@@ -1,0 +1,34 @@
+{
+  "description": "Read about creating extension packs at https://aka.ms/vsextpack",
+  "version": "1.0.0.0",
+  "extensions": [
+    {
+      "name": "Add New File",
+      "vsixId": "2E78AA18-E864-4FBB-B8C8-6186FC865DB3"
+    },
+    {
+      "name": "Editor Enhancements",
+      "vsixId": "a3112f81-e423-4f88-9f2c-e089a309e48e"
+    },
+    {
+      "name": "EditorConfig Language Service",
+      "vsixId": "1209461d-57f8-46a4-814a-dbe5fecef941"
+    },
+    {
+      "name": "File Icons",
+      "vsixId": "3a7b4930-a5fb-46ec-a9b8-9610c8f953b8"
+    },
+    {
+      "name": "Insert GUID",
+      "vsixId": "9def4441-acfd-4dd6-bffd-4531a57dee37"
+    },
+    {
+      "name": "Learn the Shortcut",
+      "vsixId": "9da28329-f9d5-4f18-91c3-d3285b103d1a"
+    },
+    {
+      "name": "Markdown Editor",
+      "vsixId": "9ca64947-e9ca-4543-bfb8-6cce9be19fd6"
+    }
+  ]
+}
