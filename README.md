@@ -18,6 +18,7 @@ An extension pack for Visual Studio 2019 containing extensions no developer shou
 - [Insert GUID](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.insertguid)
 - [Learn the Shortcut](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.LearntheShortcut)
 - [Markdown Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor)
+- [Output Enhancer](https://marketplace.visualstudio.com/items?itemName=NikolayBalakin.Outputenhancer)
 
 ## License
 [Apache 2.0](LICENSE)
