@@ -7,7 +7,7 @@ or get the [CI build](https://www.vsixgallery.com/extension/046d9eae-a595-4033-9
 
 ---------------------------------------
 
-An extension pack for Visual Studio 2019 containing extensions no developer should be without.
+An extension pack for Visual Studio 2019 containing extensions no developer should be without. These extensions will add important functionality that will make you more productive and a happier developer.
 
 ## Extensions
 
@@ -19,6 +19,8 @@ An extension pack for Visual Studio 2019 containing extensions no developer shou
 - [Learn the Shortcut](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.LearntheShortcut)
 - [Markdown Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor)
 - [Output Enhancer](https://marketplace.visualstudio.com/items?itemName=NikolayBalakin.Outputenhancer)
+- [Tweaks](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.Tweaks)
+
 
 ## License
 [Apache 2.0](LICENSE)
