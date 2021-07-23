@@ -21,6 +21,5 @@ An extension pack for Visual Studio 2019 containing extensions no developer shou
 - [Theme Switcher](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ThemeSwitcher)
 - [Tweaks](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.Tweaks)
 
-
 ## License
 [Apache 2.0](LICENSE)
