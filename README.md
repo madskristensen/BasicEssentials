@@ -12,14 +12,13 @@ An extension pack for Visual Studio 2019 containing extensions no developer shou
 ## Extensions
 
 - [Add New File](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
-- [Editor Enhancements](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorEnhancements)
-- [EditorConfig Language Service](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorConfig)
 - [Developer News](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DeveloperNews)
 - [File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
+- [Font Sizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FontSizer2)
 - [Insert GUID](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.insertguid)
-- [Learn the Shortcut](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.LearntheShortcut)
 - [Markdown Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor)
 - [Output Enhancer](https://marketplace.visualstudio.com/items?itemName=NikolayBalakin.Outputenhancer)
+- [Theme Switcher](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ThemeSwitcher)
 - [Tweaks](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.Tweaks)
 
 

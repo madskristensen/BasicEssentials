@@ -2,7 +2,7 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
         <Identity Id="046d9eae-a595-4033-9a0d-209e3f01b90d" Version="1.0" Language="en-US" Publisher="Mads Kristensen" />
-        <DisplayName>The Essentials</DisplayName>
+        <DisplayName>The Essentials 2019</DisplayName>
         <Description xml:space="preserve">An extension pack for Visual Studio 2019 containing extensions no developer should be without.</Description>
         <MoreInfo>https://github.com/madskristensen/BasicEssentials</MoreInfo>
         <License>Resources\LICENSE</License>
