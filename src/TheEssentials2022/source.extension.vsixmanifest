@@ -3,7 +3,7 @@
     <Metadata>
         <Identity Id="046d9eae-a595-4033-9a0d-209e3f01b90e" Version="1.0" Language="en-US" Publisher="Mads Kristensen" />
         <DisplayName>The Essentials 2022</DisplayName>
-        <Description xml:space="preserve">An extension pack for Visual Studio 2019 containing extensions no developer should be without.</Description>
+        <Description xml:space="preserve">An extension pack for Visual Studio 2022 containing extensions no developer should be without.</Description>
         <MoreInfo>https://github.com/madskristensen/BasicEssentials</MoreInfo>
         <License>Resources\LICENSE</License>
         <Icon>Resources\Icon.png</Icon>
