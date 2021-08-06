@@ -12,6 +12,7 @@ An extension pack for Visual Studio 2019 containing extensions no developer shou
 ## Extensions
 
 - [Add New File](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
+- [Comment Remover](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CommentRemover)
 - [Developer News](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DeveloperNews)
 - [File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
 - [Font Sizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FontSizer2)
